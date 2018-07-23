@@ -6,7 +6,7 @@ public class ObjectTranslate : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        print("Object Translater Initialised!");
 	}
 	
 	// Update is called once per frame
