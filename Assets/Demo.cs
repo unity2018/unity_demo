@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
-    public Transform target;
+public class Demo : MonoBehaviour {
+
 	// Use this for initialization
-	void Start ()
-    {
-        target = gameObject.transform;
+	void Start () {
+		
 	}
 	
 	// Update is called once per frame
